@@ -1,4 +1,4 @@
-LIVE DEMO : https://donatedapp.netlify.app/
+LIVE DEMO : https://hopechain.netlify.app/
 
 # Sample Hardhat Project
 
